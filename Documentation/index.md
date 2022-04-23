@@ -1,9 +1,9 @@
-# NodeNetwork API documentation
+# NodeNetworkJH API documentation
 
-## NodeNetwork
+## NodeNetworkJH
 You can find the API documentation [here](api/index.md).
 
 ## Links
- - [Homepage](https://wouterdek.github.io/NodeNetwork/)
- - [Documentation homepage](https://wouterdek.github.io/NodeNetwork/doc)
- - [Github page](https://github.com/Wouterdek/NodeNetwork)
+ - [Homepage](https://wouterdek.github.io/NodeNetworkJH/)
+ - [Documentation homepage](https://wouterdek.github.io/NodeNetworkJH/doc)
+ - [Github page](https://github.com/Wouterdek/NodeNetworkJH)

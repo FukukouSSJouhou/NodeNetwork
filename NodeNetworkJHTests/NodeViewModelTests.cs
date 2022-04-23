@@ -2,9 +2,9 @@
 using System.Linq;
 using DynamicData;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using NodeNetwork.ViewModels;
+using NodeNetworkJH.ViewModels;
 
-namespace NodeNetworkTests
+namespace NodeNetworkJHTests
 {
     [TestClass]
     public class NodeViewModelTests

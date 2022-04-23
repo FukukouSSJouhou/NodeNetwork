@@ -10,11 +10,11 @@ using DynamicData;
 using DynamicData.Tests;
 using Microsoft.Reactive.Testing;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using NodeNetwork.Toolkit.ValueNode;
-using NodeNetwork.ViewModels;
+using NodeNetworkJH.Toolkit.ValueNode;
+using NodeNetworkJH.ViewModels;
 using ReactiveUI;
 
-namespace NodeNetworkTests
+namespace NodeNetworkJHTests
 {
     [TestClass]
     public class ValueListInputTests

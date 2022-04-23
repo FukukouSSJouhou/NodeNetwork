@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using NodeNetwork.Utilities;
+using NodeNetworkJH.Utilities;
 
-namespace NodeNetworkTests
+namespace NodeNetworkJHTests
 {
     [TestClass]
     public class LCSTests

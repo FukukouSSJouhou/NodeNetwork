@@ -8,15 +8,15 @@ using DynamicData;
 using DynamicData.Kernel;
 using Microsoft.Reactive.Testing;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using NodeNetwork;
-using NodeNetwork.Toolkit;
-using NodeNetwork.Toolkit.ValueNode;
-using NodeNetwork.Utilities;
-using NodeNetwork.ViewModels;
+using NodeNetworkJH;
+using NodeNetworkJH.Toolkit;
+using NodeNetworkJH.Toolkit.ValueNode;
+using NodeNetworkJH.Utilities;
+using NodeNetworkJH.ViewModels;
 using ReactiveUI;
 using ReactiveUI.Testing;
 
-namespace NodeNetworkTests
+namespace NodeNetworkJHTests
 {
     [TestClass]
     public class NetworkViewModelTests

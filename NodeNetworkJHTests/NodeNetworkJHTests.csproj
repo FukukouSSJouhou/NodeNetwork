@@ -20,8 +20,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\NodeNetworkToolkit\NodeNetworkToolkit.csproj" />
-    <ProjectReference Include="..\NodeNetwork\NodeNetwork.csproj" />
+    <ProjectReference Include="..\NodeNetworkJHToolkit\NodeNetworkJHToolkit.csproj" />
+    <ProjectReference Include="..\NodeNetworkJH\NodeNetworkJH.csproj" />
   </ItemGroup>
 
 </Project>

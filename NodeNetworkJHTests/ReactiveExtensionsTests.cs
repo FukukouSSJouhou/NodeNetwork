@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using Microsoft.Reactive.Testing;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using NodeNetwork.Utilities;
+using NodeNetworkJH.Utilities;
 using ReactiveUI;
 using ReactiveUI.Legacy;
 
-namespace NodeNetworkTests
+namespace NodeNetworkJHTests
 {
     [TestClass]
     public class ReactiveExtensionsTests

@@ -21,7 +21,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ExampleCalculatorApp\ExampleCalculatorApp.csproj" />
-    <ProjectReference Include="..\NodeNetworkToolkit\NodeNetworkToolkit.csproj" />
+    <ProjectReference Include="..\NodeNetworkJHToolkit\NodeNetworkJHToolkit.csproj" />
   </ItemGroup>
 
 </Project>

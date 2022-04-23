@@ -9,7 +9,7 @@ using ExampleCalculatorApp.ViewModels;
 using ExampleCalculatorApp.ViewModels.Nodes;
 using Microsoft.Reactive.Testing;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using NodeNetwork.Toolkit.ValueNode;
+using NodeNetworkJH.Toolkit.ValueNode;
 using ReactiveUI;
 using ReactiveUI.Testing;
 

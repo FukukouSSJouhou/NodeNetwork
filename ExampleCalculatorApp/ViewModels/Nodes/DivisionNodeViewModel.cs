@@ -1,9 +1,9 @@
 ﻿using System.Reactive;
 using System.Reactive.Linq;
 using DynamicData;
-using NodeNetwork.Toolkit.ValueNode;
-using NodeNetwork.ViewModels;
-using NodeNetwork.Views;
+using NodeNetworkJH.Toolkit.ValueNode;
+using NodeNetworkJH.ViewModels;
+using NodeNetworkJH.Views;
 using ReactiveUI;
 
 namespace ExampleCalculatorApp.ViewModels.Nodes

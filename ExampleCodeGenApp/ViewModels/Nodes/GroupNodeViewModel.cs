@@ -9,9 +9,9 @@ using ExampleCodeGenApp.Model;
 using ExampleCodeGenApp.Model.Compiler;
 using ExampleCodeGenApp.ViewModels.Editors;
 using ExampleCodeGenApp.Views;
-using NodeNetwork.Toolkit.Group.AddEndpointDropPanel;
-using NodeNetwork.Toolkit.ValueNode;
-using NodeNetwork.ViewModels;
+using NodeNetworkJH.Toolkit.Group.AddEndpointDropPanel;
+using NodeNetworkJH.Toolkit.ValueNode;
+using NodeNetworkJH.ViewModels;
 using ReactiveUI;
 
 namespace ExampleCodeGenApp.ViewModels.Nodes

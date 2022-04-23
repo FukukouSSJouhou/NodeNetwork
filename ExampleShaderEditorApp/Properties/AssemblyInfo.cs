@@ -11,7 +11,7 @@ using System.Windows;
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("NodeNetwork")]
+[assembly: AssemblyProduct("NodeNetworkJH")]
 [assembly: AssemblyCopyright("Copyright (c) Wouter De Keersmaecker")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

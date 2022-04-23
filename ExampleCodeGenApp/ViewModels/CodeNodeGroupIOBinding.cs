@@ -3,9 +3,9 @@ using System.Linq;
 using System.Reactive.Linq;
 using DynamicData;
 using ExampleCodeGenApp.ViewModels.Nodes;
-using NodeNetwork.Toolkit.Group;
-using NodeNetwork.Toolkit.ValueNode;
-using NodeNetwork.ViewModels;
+using NodeNetworkJH.Toolkit.Group;
+using NodeNetworkJH.Toolkit.ValueNode;
+using NodeNetworkJH.ViewModels;
 using ReactiveUI;
 
 namespace ExampleCodeGenApp.ViewModels

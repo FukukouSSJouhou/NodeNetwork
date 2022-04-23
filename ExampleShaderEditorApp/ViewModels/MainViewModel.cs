@@ -7,11 +7,11 @@ using System.Text;
 using System.Threading.Tasks;
 using DynamicData;
 using ExampleShaderEditorApp.ViewModels.Nodes;
-using NodeNetwork;
-using NodeNetwork.Toolkit;
-using NodeNetwork.Toolkit.ContextMenu;
-using NodeNetwork.Toolkit.NodeList;
-using NodeNetwork.ViewModels;
+using NodeNetworkJH;
+using NodeNetworkJH.Toolkit;
+using NodeNetworkJH.Toolkit.ContextMenu;
+using NodeNetworkJH.Toolkit.NodeList;
+using NodeNetworkJH.ViewModels;
 using ReactiveUI;
 
 namespace ExampleShaderEditorApp.ViewModels

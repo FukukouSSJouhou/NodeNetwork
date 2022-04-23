@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using ExampleShaderEditorApp.Model;
 using ExampleShaderEditorApp.Views;
-using NodeNetwork.Toolkit.ValueNode;
+using NodeNetworkJH.Toolkit.ValueNode;
 using ReactiveUI;
 
 namespace ExampleShaderEditorApp.ViewModels.Editors

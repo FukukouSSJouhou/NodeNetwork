@@ -1,7 +1,7 @@
 ﻿using System;
 using ExampleShaderEditorApp.Model;
-using NodeNetwork.Toolkit.ValueNode;
-using NodeNetwork.Views;
+using NodeNetworkJH.Toolkit.ValueNode;
+using NodeNetworkJH.Views;
 using ReactiveUI;
 
 namespace ExampleShaderEditorApp.ViewModels

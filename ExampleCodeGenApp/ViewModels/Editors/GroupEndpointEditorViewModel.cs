@@ -8,9 +8,9 @@ using DynamicData;
 using ExampleCodeGenApp.Views;
 using ExampleCodeGenApp.Views.Editors;
 using MoreLinq.Extensions;
-using NodeNetwork.Toolkit.Group;
-using NodeNetwork.Toolkit.ValueNode;
-using NodeNetwork.ViewModels;
+using NodeNetworkJH.Toolkit.Group;
+using NodeNetworkJH.Toolkit.ValueNode;
+using NodeNetworkJH.ViewModels;
 using ReactiveUI;
 
 namespace ExampleCodeGenApp.ViewModels.Nodes

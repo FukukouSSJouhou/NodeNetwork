@@ -4,13 +4,13 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ExampleCodeGenApp"
-        xmlns:views="clr-namespace:NodeNetwork.Views;assembly=NodeNetwork"
-        xmlns:nodeList="clr-namespace:NodeNetwork.Toolkit.NodeList;assembly=NodeNetworkToolkit"
+        xmlns:views="clr-namespace:NodeNetworkJH.Views;assembly=NodeNetworkJH"
+        xmlns:nodeList="clr-namespace:NodeNetworkJH.Toolkit.NodeList;assembly=NodeNetworkJHToolkit"
         xmlns:views1="clr-namespace:ExampleCodeGenApp.Views"
         xmlns:viewModels="clr-namespace:ExampleCodeGenApp.ViewModels"
         xmlns:nodes="clr-namespace:ExampleCodeGenApp.ViewModels.Nodes"
         xmlns:converters="clr-namespace:ExampleCodeGenApp.Views.Converters"
-        xmlns:breadcrumbBar="clr-namespace:NodeNetwork.Toolkit.BreadcrumbBar;assembly=NodeNetworkToolkit"
+        xmlns:breadcrumbBar="clr-namespace:NodeNetworkJH.Toolkit.BreadcrumbBar;assembly=NodeNetworkJHToolkit"
         mc:Ignorable="d"
         Title="MainWindow" Height="550" Width="825">
     <Window.Resources>

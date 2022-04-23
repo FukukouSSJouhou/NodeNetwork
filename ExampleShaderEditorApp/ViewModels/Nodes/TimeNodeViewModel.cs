@@ -4,7 +4,7 @@ using System.Reactive.Linq;
 using System.Text;
 using DynamicData;
 using ExampleShaderEditorApp.Model;
-using NodeNetwork.Views;
+using NodeNetworkJH.Views;
 using ReactiveUI;
 
 namespace ExampleShaderEditorApp.ViewModels.Nodes

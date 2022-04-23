@@ -2,7 +2,7 @@
 
 using DynamicData;
 
-namespace NodeNetwork.ViewModels
+namespace NodeNetworkJH.ViewModels
 {
     /// <summary>
     /// The factory method to create endpoint view models. Used in NodeViewModel.

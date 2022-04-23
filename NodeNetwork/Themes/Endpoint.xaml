@@ -1,7 +1,7 @@
 ﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
                     xmlns:reactiveUi="http://reactiveui.net"
-                    xmlns:wpf="clr-namespace:NodeNetwork.Utilities.WPF">
+                    xmlns:wpf="clr-namespace:NodeNetworkJH.Utilities.WPF">
     <wpf:NullVisibilityConverter x:Key="NullConverter"/>
     <ControlTemplate x:Key="LeftAlignedEndpoint">
         <Grid Margin="-10, 0, 0, 5">

@@ -6,11 +6,11 @@ using System.Reactive.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using DynamicData;
-using NodeNetwork.Utilities;
-using NodeNetwork.Views;
+using NodeNetworkJH.Utilities;
+using NodeNetworkJH.Views;
 using ReactiveUI;
 
-namespace NodeNetwork.ViewModels
+namespace NodeNetworkJH.ViewModels
 {
     /// <summary>
     /// Viewmodel class for outputs on a node.

@@ -6,10 +6,10 @@ using System.Text;
 using System.Threading.Tasks;
 using DynamicData;
 using DynamicData.Aggregation;
-using NodeNetwork.Views;
+using NodeNetworkJH.Views;
 using ReactiveUI;
 
-namespace NodeNetwork.ViewModels
+namespace NodeNetworkJH.ViewModels
 {
     /// <summary>
     /// Represents a connection between a node input and a node output

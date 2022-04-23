@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
-using NodeNetwork.ViewModels;
-using NodeNetwork.Views;
+using NodeNetworkJH.ViewModels;
+using NodeNetworkJH.Views;
 using ReactiveUI;
 using Splat;
 
-namespace NodeNetwork
+namespace NodeNetworkJH
 {
     /// <summary>
     /// A locator is used to find the correct view corresponding to a viewmodel.
@@ -58,7 +58,7 @@ namespace NodeNetwork
         }
 
         /// <summary>
-        /// Register all NodeNetwork view/viewmodel pairs to Locator.CurrentMutable.
+        /// Register all NodeNetworkJH view/viewmodel pairs to Locator.CurrentMutable.
         /// </summary>
         public static void RegisterSplat()
         {

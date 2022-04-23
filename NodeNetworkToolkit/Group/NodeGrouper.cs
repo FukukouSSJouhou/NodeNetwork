@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 using System.Windows;
 using DynamicData;
 using DynamicData.Alias;
-using NodeNetwork.Utilities;
-using NodeNetwork.ViewModels;
+using NodeNetworkJH.Utilities;
+using NodeNetworkJH.ViewModels;
 
-namespace NodeNetwork.Toolkit.Group
+namespace NodeNetworkJH.Toolkit.Group
 {
     /// <summary>
     /// Used to provide nesting of networks by grouping nodes.

@@ -1,6 +1,6 @@
 ﻿using System.Windows.Controls.Primitives;
 
-namespace NodeNetwork.Views.Controls
+namespace NodeNetworkJH.Views.Controls
 {
     public partial class ArrowToggleButton : ToggleButton
     {

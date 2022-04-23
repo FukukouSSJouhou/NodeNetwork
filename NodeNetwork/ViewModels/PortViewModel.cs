@@ -6,10 +6,10 @@ using System.Reactive.Subjects;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
-using NodeNetwork.Views;
+using NodeNetworkJH.Views;
 using ReactiveUI;
 
-namespace NodeNetwork.ViewModels
+namespace NodeNetworkJH.ViewModels
 {
     /// <summary>
     /// Viewmodel class for the UI part of an endpoint that is used to create connections.

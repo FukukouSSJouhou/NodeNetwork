@@ -5,10 +5,10 @@ using System.Reactive.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
-using NodeNetwork.Views;
+using NodeNetworkJH.Views;
 using ReactiveUI;
 
-namespace NodeNetwork.ViewModels
+namespace NodeNetworkJH.ViewModels
 {
     /// <summary>
     /// Viewmodel for a connection that is currently being build by the user.

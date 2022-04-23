@@ -1,8 +1,8 @@
 ﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
                     xmlns:reactiveUi="http://reactiveui.net"
-                    xmlns:views="clr-namespace:NodeNetwork.Views"
-                    xmlns:viewModels="clr-namespace:NodeNetwork.ViewModels">
+                    xmlns:views="clr-namespace:NodeNetworkJH.Views"
+                    xmlns:viewModels="clr-namespace:NodeNetworkJH.ViewModels">
     <Style TargetType="{x:Type views:EndpointGroupView}">
         <Setter Property="Background" Value="#20000000"/>
         <Setter Property="Foreground" Value="#FFFFFF"/>

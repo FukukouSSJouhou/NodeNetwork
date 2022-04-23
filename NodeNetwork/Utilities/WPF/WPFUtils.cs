@@ -7,7 +7,7 @@ using System.Windows;
 using System.Windows.Data;
 using System.Windows.Media;
 
-namespace NodeNetwork.Views.Controls
+namespace NodeNetworkJH.Views.Controls
 {
     public static class WPFUtils
     {

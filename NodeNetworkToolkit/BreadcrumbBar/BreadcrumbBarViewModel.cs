@@ -4,7 +4,7 @@ using System.Reactive.Linq;
 using DynamicData;
 using ReactiveUI;
 
-namespace NodeNetwork.Toolkit.BreadcrumbBar
+namespace NodeNetworkJH.Toolkit.BreadcrumbBar
 {
     /// <summary>
     /// Viewmodel for a single element of the BreadcrumbBar.

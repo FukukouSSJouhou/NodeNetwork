@@ -4,11 +4,11 @@ using System.Reactive.Disposables;
 using System.Reactive.Linq;
 using System.Windows;
 using System.Windows.Controls;
-using NodeNetwork.Utilities;
+using NodeNetworkJH.Utilities;
 using ReactiveUI;
 using ReactiveUI.Legacy;
 
-namespace NodeNetwork.Toolkit.BreadcrumbBar
+namespace NodeNetworkJH.Toolkit.BreadcrumbBar
 {
     public partial class BreadcrumbBarView : UserControl, IViewFor<BreadcrumbBarViewModel>
     {

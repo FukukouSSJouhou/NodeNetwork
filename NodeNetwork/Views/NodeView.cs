@@ -18,13 +18,13 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using DynamicData;
 using DynamicData.Binding;
-using NodeNetwork.Utilities;
-using NodeNetwork.ViewModels;
-using NodeNetwork.Views.Controls;
+using NodeNetworkJH.Utilities;
+using NodeNetworkJH.ViewModels;
+using NodeNetworkJH.Views.Controls;
 using ReactiveUI;
 using Splat;
 
-namespace NodeNetwork.Views
+namespace NodeNetworkJH.Views
 {
     [TemplatePart(Name = nameof(CollapseButton), Type = typeof(ArrowToggleButton))]
     [TemplatePart(Name = nameof(NameLabel), Type = typeof(TextBlock))]

@@ -5,12 +5,12 @@ using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Media;
-using NodeNetwork.Utilities;
-using NodeNetwork.ViewModels;
+using NodeNetworkJH.Utilities;
+using NodeNetworkJH.ViewModels;
 
 using ReactiveUI;
 
-namespace NodeNetwork.Views
+namespace NodeNetworkJH.Views
 {
     [TemplatePart(Name = nameof(NameLabel), Type = typeof(TextBlock))]
     [TemplatePart(Name = nameof(InputsList), Type = typeof(ItemsControl))]

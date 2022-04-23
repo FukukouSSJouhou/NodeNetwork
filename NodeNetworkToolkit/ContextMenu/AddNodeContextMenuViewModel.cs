@@ -5,10 +5,10 @@ using System.Reactive;
 using System.Text;
 using System.Windows;
 using DynamicData;
-using NodeNetwork.ViewModels;
+using NodeNetworkJH.ViewModels;
 using ReactiveUI;
 
-namespace NodeNetwork.Toolkit.ContextMenu
+namespace NodeNetworkJH.Toolkit.ContextMenu
 {
     /// <summary>
     /// A viewmodel for a context menu that allows users to add nodes to a network.

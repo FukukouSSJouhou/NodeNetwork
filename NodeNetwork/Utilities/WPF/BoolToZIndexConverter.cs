@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Data;
 
-namespace NodeNetwork.Utilities.WPF
+namespace NodeNetworkJH.Utilities.WPF
 {
     public class BoolToZIndexConverter : IValueConverter
     {

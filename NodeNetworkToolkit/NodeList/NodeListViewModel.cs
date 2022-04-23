@@ -4,10 +4,10 @@ using System.Linq;
 using System.Reactive;
 using System.Reactive.Linq;
 using DynamicData;
-using NodeNetwork.ViewModels;
+using NodeNetworkJH.ViewModels;
 using ReactiveUI;
 
-namespace NodeNetwork.Toolkit.NodeList
+namespace NodeNetworkJH.Toolkit.NodeList
 {
     /// <summary>
     /// A viewmodel for a UI List component that contains NodeViewModels

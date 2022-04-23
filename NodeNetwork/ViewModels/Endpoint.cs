@@ -7,11 +7,11 @@ using System.Reactive.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using DynamicData;
-using NodeNetwork.Utilities;
+using NodeNetworkJH.Utilities;
 using ReactiveUI;
 using Splat;
 
-namespace NodeNetwork.ViewModels
+namespace NodeNetworkJH.ViewModels
 {
     /// <summary>
     /// Enum type that indicates the position of the port in the endpoint

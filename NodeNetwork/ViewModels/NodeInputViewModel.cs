@@ -4,12 +4,12 @@ using System.Collections.Specialized;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using NodeNetwork.Views;
+using NodeNetworkJH.Views;
 using ReactiveUI;
 using System.Reactive.Linq;
 using DynamicData;
 
-namespace NodeNetwork.ViewModels
+namespace NodeNetworkJH.ViewModels
 {
     /// <summary>
     /// Viewmodel class for inputs on a node.

@@ -14,11 +14,11 @@ using System.Windows;
 using DynamicData;
 using DynamicData.Binding;
 
-using NodeNetwork.Views;
+using NodeNetworkJH.Views;
 using ReactiveUI;
 using Splat;
 
-namespace NodeNetwork.ViewModels
+namespace NodeNetworkJH.ViewModels
 {
     public enum ResizeOrientation
     {

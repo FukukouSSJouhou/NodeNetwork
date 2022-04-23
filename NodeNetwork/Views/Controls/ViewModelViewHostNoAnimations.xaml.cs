@@ -14,7 +14,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using ReactiveUI;
 
-namespace NodeNetwork.Views.Controls
+namespace NodeNetworkJH.Views.Controls
 {
     public partial class ViewModelViewHostNoAnimations : ViewModelViewHost
     {

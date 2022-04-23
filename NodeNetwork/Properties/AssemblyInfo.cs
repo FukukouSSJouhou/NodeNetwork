@@ -7,11 +7,11 @@ using System.Windows;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("NodeNetwork")]
+[assembly: AssemblyTitle("NodeNetworkJH")]
 [assembly: AssemblyDescription("A library with a WPF node editor component based on ReactiveUI")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("NodeNetwork")]
+[assembly: AssemblyProduct("NodeNetworkJH")]
 [assembly: AssemblyCopyright("Copyright (c) Wouter De Keersmaecker")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

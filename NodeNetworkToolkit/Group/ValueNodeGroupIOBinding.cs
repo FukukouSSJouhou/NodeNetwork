@@ -2,11 +2,11 @@
 using System.Linq;
 using System.Reactive.Linq;
 using DynamicData;
-using NodeNetwork.Toolkit.ValueNode;
-using NodeNetwork.ViewModels;
+using NodeNetworkJH.Toolkit.ValueNode;
+using NodeNetworkJH.ViewModels;
 using ReactiveUI;
 
-namespace NodeNetwork.Toolkit.Group
+namespace NodeNetworkJH.Toolkit.Group
 {
     /// <summary>
     /// Basic reference implementation of NodeGroupIOBinding for ValueInputViewModels and ValueOutputViewModels.

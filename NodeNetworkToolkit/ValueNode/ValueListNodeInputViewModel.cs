@@ -9,11 +9,11 @@ using System.Threading.Tasks;
 using DynamicData;
 using DynamicData.Alias;
 using DynamicData.Kernel;
-using NodeNetwork.ViewModels;
-using NodeNetwork.Views;
+using NodeNetworkJH.ViewModels;
+using NodeNetworkJH.Views;
 using ReactiveUI;
 
-namespace NodeNetwork.Toolkit.ValueNode
+namespace NodeNetworkJH.Toolkit.ValueNode
 {
     /// <summary>
     /// A node input that keeps a list of the latest values produced by all of the connected ValueNodeOutputViewModels.

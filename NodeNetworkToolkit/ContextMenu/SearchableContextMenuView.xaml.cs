@@ -15,10 +15,10 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using DynamicData;
-using NodeNetwork.Utilities;
+using NodeNetworkJH.Utilities;
 using ReactiveUI;
 
-namespace NodeNetwork.Toolkit.ContextMenu
+namespace NodeNetworkJH.Toolkit.ContextMenu
 {
     public partial class SearchableContextMenuView : IViewFor<SearchableContextMenuViewModel>
     {

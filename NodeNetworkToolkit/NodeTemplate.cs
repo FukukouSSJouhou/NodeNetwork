@@ -1,7 +1,7 @@
 ﻿using System;
-using NodeNetwork.ViewModels;
+using NodeNetworkJH.ViewModels;
 
-namespace NodeNetwork.Toolkit
+namespace NodeNetworkJH.Toolkit
 {
     /// <summary>
     /// Used in systems that need an example of a type of node as well as a way to create more instances of the same type.

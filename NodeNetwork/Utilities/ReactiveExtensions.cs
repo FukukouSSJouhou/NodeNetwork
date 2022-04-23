@@ -4,7 +4,7 @@ using System.Reactive.Linq;
 using DynamicData;
 using ReactiveUI;
 
-namespace NodeNetwork.Utilities
+namespace NodeNetworkJH.Utilities
 {
     public static class ReactiveExtensions
     {

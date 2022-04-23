@@ -8,10 +8,10 @@ using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Media;
 using System.Windows.Shapes;
-using NodeNetwork.ViewModels;
+using NodeNetworkJH.ViewModels;
 using ReactiveUI;
 
-namespace NodeNetwork.Views
+namespace NodeNetworkJH.Views
 {
     [TemplateVisualState(Name = ErrorState, GroupName = ErrorVisualStatesGroup)]
     [TemplateVisualState(Name = NonErrorState, GroupName = ErrorVisualStatesGroup)]

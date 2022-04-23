@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace NodeNetwork
+namespace NodeNetworkJH
 {
     /// <summary>
     /// A class that represents a generic validation result.

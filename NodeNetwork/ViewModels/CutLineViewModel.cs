@@ -7,7 +7,7 @@ using System.Windows;
 using DynamicData;
 using ReactiveUI;
 
-namespace NodeNetwork.ViewModels
+namespace NodeNetworkJH.ViewModels
 {
     /// <summary>
     /// Viewmodel class for the UI cutting line that is used to delete connections.

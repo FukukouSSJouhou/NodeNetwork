@@ -4,7 +4,7 @@ using System.Text;
 
 using ReactiveUI;
 
-namespace NodeNetwork.ViewModels
+namespace NodeNetworkJH.ViewModels
 {
     public class EndpointGroup : ReactiveObject
     {

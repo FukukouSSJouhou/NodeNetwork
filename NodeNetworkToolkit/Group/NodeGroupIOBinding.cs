@@ -1,6 +1,6 @@
-﻿using NodeNetwork.ViewModels;
+﻿using NodeNetworkJH.ViewModels;
 
-namespace NodeNetwork.Toolkit.Group
+namespace NodeNetworkJH.Toolkit.Group
 {
     /// <summary>
     /// Facilitates connections between nodes outside and inside a group.

@@ -8,7 +8,7 @@ using System.Windows;
 using DynamicData;
 using ReactiveUI;
 
-namespace NodeNetwork.ViewModels
+namespace NodeNetworkJH.ViewModels
 {
     /// <summary>
     /// Viewmodel for the view that is used to select nodes by dragging a rectangle around them.

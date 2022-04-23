@@ -6,13 +6,13 @@ using System.Text;
 
 using DynamicData;
 
-using NodeNetwork.Views;
+using NodeNetworkJH.Views;
 
 using ReactiveUI;
 
 using Splat;
 
-namespace NodeNetwork.ViewModels
+namespace NodeNetworkJH.ViewModels
 {
     public class EndpointGroupViewModel : ReactiveObject
     {

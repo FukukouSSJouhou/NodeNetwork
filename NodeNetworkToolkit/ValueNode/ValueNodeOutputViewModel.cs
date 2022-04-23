@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Reactive.Concurrency;
-using NodeNetwork.ViewModels;
-using NodeNetwork.Views;
+using NodeNetworkJH.ViewModels;
+using NodeNetworkJH.Views;
 using ReactiveUI;
 
-namespace NodeNetwork.Toolkit.ValueNode
+namespace NodeNetworkJH.Toolkit.ValueNode
 {
     /// <summary>
     /// A viewmodel for a node output that produces a value based on the inputs.

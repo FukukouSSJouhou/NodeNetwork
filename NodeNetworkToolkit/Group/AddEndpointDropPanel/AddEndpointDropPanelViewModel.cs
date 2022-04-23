@@ -5,10 +5,10 @@ using System.Reactive;
 using System.Reactive.Linq;
 using System.Text;
 using DynamicData;
-using NodeNetwork.ViewModels;
+using NodeNetworkJH.ViewModels;
 using ReactiveUI;
 
-namespace NodeNetwork.Toolkit.Group.AddEndpointDropPanel
+namespace NodeNetworkJH.Toolkit.Group.AddEndpointDropPanel
 {
     public class AddEndpointDropPanelViewModel : ReactiveObject
     {

@@ -7,11 +7,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
-using NodeNetwork.ViewModels;
+using NodeNetworkJH.ViewModels;
 using ReactiveUI;
 using Splat;
 
-namespace NodeNetwork.Views
+namespace NodeNetworkJH.Views
 {
     [TemplatePart(Name = nameof(EndpointHost), Type = typeof(ViewModelViewHost))]
     [TemplatePart(Name = nameof(EditorHost), Type = typeof(ViewModelViewHost))]

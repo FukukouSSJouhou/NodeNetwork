@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Reactive;
 using System.Reactive.Linq;
-using NodeNetwork.ViewModels;
-using NodeNetwork.Views;
+using NodeNetworkJH.ViewModels;
+using NodeNetworkJH.Views;
 using ReactiveUI;
 
-namespace NodeNetwork.Toolkit.ValueNode
+namespace NodeNetworkJH.Toolkit.ValueNode
 {
     /// <summary>
     /// An editor for ValueNodeInputViewModel or ValueNodeOutputViewModel.

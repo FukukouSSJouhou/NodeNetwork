@@ -5,7 +5,7 @@ using System.Windows.Data;
 using System.Windows.Input;
 using System.Windows.Media;
 
-namespace NodeNetwork.Views.Controls
+namespace NodeNetworkJH.Views.Controls
 {
     public class DragCanvas : Canvas
     {

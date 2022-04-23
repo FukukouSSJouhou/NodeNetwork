@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace NodeNetwork.Utilities
+namespace NodeNetworkJH.Utilities
 {
     //Class for calculating the longest common subsequence of two lists
     //For example: the LCS of 'computer' and 'houseboat' is 'out'

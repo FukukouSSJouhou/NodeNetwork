@@ -6,10 +6,10 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
-using NodeNetwork.ViewModels;
+using NodeNetworkJH.ViewModels;
 using ReactiveUI;
 
-namespace NodeNetwork.Views
+namespace NodeNetworkJH.Views
 {
     [TemplatePart(Name = nameof(TextBlock), Type = typeof(TextBlock))]
     public class ErrorMessageView : Control, IViewFor<ErrorMessageViewModel>

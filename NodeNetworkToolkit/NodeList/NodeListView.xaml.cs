@@ -8,11 +8,11 @@ using System.Windows.Data;
 using System.Windows.Input;
 using System.Windows.Media;
 using DynamicData;
-using NodeNetwork.Utilities;
-using NodeNetwork.ViewModels;
+using NodeNetworkJH.Utilities;
+using NodeNetworkJH.ViewModels;
 using ReactiveUI;
 
-namespace NodeNetwork.Toolkit.NodeList
+namespace NodeNetworkJH.Toolkit.NodeList
 {
     public partial class NodeListView : IViewFor<NodeListViewModel>
     {

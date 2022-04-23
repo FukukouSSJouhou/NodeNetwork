@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
 
-namespace NodeNetwork.Views.Controls
+namespace NodeNetworkJH.Views.Controls
 {
     /// <summary>
     /// Simple panel that stretches its children to fill the panel.

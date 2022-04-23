@@ -5,7 +5,7 @@ using System.Windows;
 using System.Windows.Controls;
 using ReactiveUI;
 
-namespace NodeNetwork.Toolkit.Group.AddEndpointDropPanel
+namespace NodeNetworkJH.Toolkit.Group.AddEndpointDropPanel
 {
     public partial class AddEndpointDropPanelView : IViewFor<AddEndpointDropPanelViewModel>
     {

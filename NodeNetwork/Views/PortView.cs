@@ -10,11 +10,11 @@ using System.Windows.Controls;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Shapes;
-using NodeNetwork.ViewModels;
-using NodeNetwork.Views.Controls;
+using NodeNetworkJH.ViewModels;
+using NodeNetworkJH.Views.Controls;
 using ReactiveUI;
 
-namespace NodeNetwork.Views
+namespace NodeNetworkJH.Views
 {
     [TemplateVisualState(Name = ConnectedState, GroupName = ConnectedVisualStatesGroup)]
     [TemplateVisualState(Name = DisconnectedState, GroupName = ConnectedVisualStatesGroup)]

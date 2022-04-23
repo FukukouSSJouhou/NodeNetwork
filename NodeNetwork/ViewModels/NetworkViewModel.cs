@@ -1,5 +1,5 @@
-﻿using NodeNetwork.Views;
-using NodeNetwork.Utilities;
+﻿using NodeNetworkJH.Views;
+using NodeNetworkJH.Utilities;
 using ReactiveUI;
 using System;
 using System.Collections.Generic;
@@ -16,7 +16,7 @@ using System.Windows;
 using DynamicData;
 using DynamicData.Alias;
 
-namespace NodeNetwork.ViewModels
+namespace NodeNetworkJH.ViewModels
 {
     /// <summary>
     /// The viewmodel for node networks.

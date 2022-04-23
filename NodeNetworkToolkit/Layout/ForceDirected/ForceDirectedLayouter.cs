@@ -6,9 +6,9 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Threading;
-using NodeNetwork.ViewModels;
+using NodeNetworkJH.ViewModels;
 
-namespace NodeNetwork.Toolkit.Layout.ForceDirected
+namespace NodeNetworkJH.Toolkit.Layout.ForceDirected
 {
 	/// <summary>
 	/// Reposition the nodes in a network using a physics-based approach.

@@ -8,11 +8,11 @@ using System.Reactive.Linq;
 using System.Reactive.Subjects;
 using System.Reactive.Threading.Tasks;
 using System.Threading;
-using NodeNetwork.ViewModels;
-using NodeNetwork.Views;
+using NodeNetworkJH.ViewModels;
+using NodeNetworkJH.Views;
 using ReactiveUI;
 
-namespace NodeNetwork.Toolkit.ValueNode
+namespace NodeNetworkJH.Toolkit.ValueNode
 {
     /// <summary>
     /// A node input that keeps track of the latest value produced by either the connected ValueNodeOutputViewModel, 

@@ -5,7 +5,7 @@ using System.Linq;
 using System.Reactive.Linq;
 using System.Windows.Input;
 
-namespace NodeNetwork.Toolkit.ContextMenu
+namespace NodeNetworkJH.Toolkit.ContextMenu
 {
     /// <summary>
     /// A data type containing a command, parameter and display properties.

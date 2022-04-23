@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
-using NodeNetwork.ViewModels;
+using NodeNetworkJH.ViewModels;
 
-namespace NodeNetwork.Toolkit.Layout.ForceDirected
+namespace NodeNetworkJH.Toolkit.Layout.ForceDirected
 {
 	internal interface IState
 	{

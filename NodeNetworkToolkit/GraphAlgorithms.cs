@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
-using NodeNetwork.ViewModels;
+using NodeNetworkJH.ViewModels;
 
-namespace NodeNetwork.Toolkit
+namespace NodeNetworkJH.Toolkit
 {
     /// <summary>
     /// This class is a collection of various graph algoritms.

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Data;
 
-namespace NodeNetwork.Utilities.WPF
+namespace NodeNetworkJH.Utilities.WPF
 {
     public class NullVisibilityConverter : IValueConverter
     {

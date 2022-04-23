@@ -5,10 +5,10 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
-using NodeNetwork.ViewModels;
+using NodeNetworkJH.ViewModels;
 using ReactiveUI;
 
-namespace NodeNetwork.Views
+namespace NodeNetworkJH.Views
 {
     public class NodeEndpointEditorView : Control, IViewFor<NodeEndpointEditorViewModel>
     {

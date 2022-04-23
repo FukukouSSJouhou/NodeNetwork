@@ -18,12 +18,12 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using DynamicData;
-using NodeNetwork.Utilities;
-using NodeNetwork.ViewModels;
-using NodeNetwork.Views.Controls;
+using NodeNetworkJH.Utilities;
+using NodeNetworkJH.ViewModels;
+using NodeNetworkJH.Views.Controls;
 using ReactiveUI;
 
-namespace NodeNetwork.Views
+namespace NodeNetworkJH.Views
 {
     public partial class NetworkView : IViewFor<NetworkViewModel>
     {

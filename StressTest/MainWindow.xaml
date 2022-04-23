@@ -4,7 +4,7 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:StressTest"
-        xmlns:Views="clr-namespace:NodeNetwork.Views;assembly=NodeNetwork"
+        xmlns:Views="clr-namespace:NodeNetworkJH.Views;assembly=NodeNetworkJH"
         xmlns:reactiveUi="http://reactiveui.net"
         x:Class="StressTest.MainWindow"
         mc:Ignorable="d"

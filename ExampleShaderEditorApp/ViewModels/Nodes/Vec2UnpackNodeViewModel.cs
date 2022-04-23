@@ -7,8 +7,8 @@ using System.Threading.Tasks;
 using DynamicData;
 using ExampleShaderEditorApp.Model;
 using ExampleShaderEditorApp.ViewModels.Editors;
-using NodeNetwork.ViewModels;
-using NodeNetwork.Views;
+using NodeNetworkJH.ViewModels;
+using NodeNetworkJH.Views;
 using ReactiveUI;
 
 namespace ExampleShaderEditorApp.ViewModels.Nodes

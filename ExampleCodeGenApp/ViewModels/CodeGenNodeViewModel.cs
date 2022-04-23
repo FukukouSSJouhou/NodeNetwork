@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
 using ExampleCodeGenApp.Views;
-using NodeNetwork.ViewModels;
+using NodeNetworkJH.ViewModels;
 using ReactiveUI;
 
 namespace ExampleCodeGenApp.ViewModels

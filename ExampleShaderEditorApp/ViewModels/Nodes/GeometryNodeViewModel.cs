@@ -6,8 +6,8 @@ using System.Text;
 using System.Threading.Tasks;
 using DynamicData;
 using ExampleShaderEditorApp.Model;
-using NodeNetwork.ViewModels;
-using NodeNetwork.Views;
+using NodeNetworkJH.ViewModels;
+using NodeNetworkJH.Views;
 using ReactiveUI;
 using Splat;
 

@@ -9,7 +9,7 @@ using ExampleCodeGenApp.Model;
 using ExampleCodeGenApp.Model.Compiler;
 using ExampleCodeGenApp.ViewModels.Editors;
 using ExampleCodeGenApp.Views;
-using NodeNetwork.Toolkit.ValueNode;
+using NodeNetworkJH.Toolkit.ValueNode;
 using ReactiveUI;
 
 namespace ExampleCodeGenApp.ViewModels.Nodes

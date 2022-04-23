@@ -5,10 +5,10 @@ using System.Text;
 using System.Threading.Tasks;
 using DynamicData;
 using ExampleShaderEditorApp.Model;
-using NodeNetwork;
-using NodeNetwork.Toolkit.ValueNode;
-using NodeNetwork.ViewModels;
-using NodeNetwork.Views;
+using NodeNetworkJH;
+using NodeNetworkJH.Toolkit.ValueNode;
+using NodeNetworkJH.ViewModels;
+using NodeNetworkJH.Views;
 using ReactiveUI;
 
 namespace ExampleShaderEditorApp.ViewModels.Nodes

@@ -2,10 +2,10 @@
 using System.Linq;
 using ExampleShaderEditorApp.Model;
 using ExampleShaderEditorApp.ViewModels.Nodes;
-using NodeNetwork;
-using NodeNetwork.Toolkit.ValueNode;
-using NodeNetwork.ViewModels;
-using NodeNetwork.Views;
+using NodeNetworkJH;
+using NodeNetworkJH.Toolkit.ValueNode;
+using NodeNetworkJH.ViewModels;
+using NodeNetworkJH.Views;
 using ReactiveUI;
 
 namespace ExampleShaderEditorApp.ViewModels

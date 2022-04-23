@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using ExampleCodeGenApp.Views;
-using NodeNetwork.Toolkit.ValueNode;
-using NodeNetwork.ViewModels;
-using NodeNetwork.Views;
+using NodeNetworkJH.Toolkit.ValueNode;
+using NodeNetworkJH.ViewModels;
+using NodeNetworkJH.Views;
 using ReactiveUI;
 
 namespace ExampleCodeGenApp.ViewModels

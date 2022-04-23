@@ -7,10 +7,10 @@ using System.Threading.Tasks;
 using DynamicData;
 using ExampleCalculatorApp.ViewModels.Nodes;
 using ExampleCalculatorApp.Views;
-using NodeNetwork;
-using NodeNetwork.Toolkit;
-using NodeNetwork.Toolkit.NodeList;
-using NodeNetwork.ViewModels;
+using NodeNetworkJH;
+using NodeNetworkJH.Toolkit;
+using NodeNetworkJH.Toolkit.NodeList;
+using NodeNetworkJH.ViewModels;
 using ReactiveUI;
 
 namespace ExampleCalculatorApp.ViewModels

@@ -14,7 +14,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using ExampleCodeGenApp.ViewModels;
-using NodeNetwork.Views;
+using NodeNetworkJH.Views;
 using ReactiveUI;
 
 namespace ExampleCodeGenApp.Views

@@ -4,10 +4,10 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ExampleShaderEditorApp"
-        xmlns:nodelist="clr-namespace:NodeNetwork.Toolkit.NodeList;assembly=NodeNetworkToolkit"
-        xmlns:views="clr-namespace:NodeNetwork.Views;assembly=NodeNetwork"
+        xmlns:nodelist="clr-namespace:NodeNetworkJH.Toolkit.NodeList;assembly=NodeNetworkJHToolkit"
+        xmlns:views="clr-namespace:NodeNetworkJH.Views;assembly=NodeNetworkJH"
         xmlns:views1="clr-namespace:ExampleShaderEditorApp.Views"
-        xmlns:nodeContextMenu="clr-namespace:NodeNetwork.Toolkit.ContextMenu;assembly=NodeNetworkToolkit"
+        xmlns:nodeContextMenu="clr-namespace:NodeNetworkJH.Toolkit.ContextMenu;assembly=NodeNetworkJHToolkit"
         mc:Ignorable="d"
         Title="Shader editor" Height="600" Width="1200" Name="element">
     <Window.Resources>

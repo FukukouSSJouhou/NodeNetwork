@@ -9,8 +9,8 @@ using DynamicData;
 using ExampleCodeGenApp.Model;
 using ExampleCodeGenApp.Model.Compiler;
 using ExampleCodeGenApp.Views;
-using NodeNetwork.Toolkit.ValueNode;
-using NodeNetwork.ViewModels;
+using NodeNetworkJH.Toolkit.ValueNode;
+using NodeNetworkJH.ViewModels;
 using ReactiveUI;
 
 namespace ExampleCodeGenApp.ViewModels.Nodes

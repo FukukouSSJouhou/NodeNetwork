@@ -1,0 +1,13 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+    <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="pack://application:,,,/NodeNetworkJH;component/Themes/ConnectionView.xaml"/>
+        <ResourceDictionary Source="pack://application:,,,/NodeNetworkJH;component/Themes/PendingConnectionView.xaml"/>
+        <ResourceDictionary Source="pack://application:,,,/NodeNetworkJH;component/Themes/ErrorMessageView.xaml"/>
+        <ResourceDictionary Source="pack://application:,,,/NodeNetworkJH;component/Themes/NodeEndpointEditorView.xaml"/>
+        <ResourceDictionary Source="pack://application:,,,/NodeNetworkJH;component/Themes/NodeView.xaml"/>
+        <ResourceDictionary Source="pack://application:,,,/NodeNetworkJH;component/Themes/NodeInputView.xaml"/>
+        <ResourceDictionary Source="pack://application:,,,/NodeNetworkJH;component/Themes/NodeOutputView.xaml"/>
+        <ResourceDictionary Source="pack://application:,,,/NodeNetworkJH;component/Themes/PortView.xaml"/>
+        <ResourceDictionary Source="pack://application:,,,/NodeNetworkJH;component/Themes/EndpointGroupView.xaml"/>
+    </ResourceDictionary.MergedDictionaries>
+</ResourceDictionary>

@@ -1,5 +1,5 @@
 ﻿using ExampleCalculatorApp.Views;
-using NodeNetwork.Toolkit.ValueNode;
+using NodeNetworkJH.Toolkit.ValueNode;
 using ReactiveUI;
 
 namespace ExampleCalculatorApp.ViewModels

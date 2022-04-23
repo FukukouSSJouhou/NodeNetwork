@@ -8,13 +8,13 @@ using System.Windows;
 using DynamicData;
 using ExampleCodeGenApp.Model;
 using ExampleCodeGenApp.ViewModels.Nodes;
-using NodeNetwork.Toolkit.BreadcrumbBar;
-using NodeNetwork.Toolkit.Group;
-using NodeNetwork.Toolkit.Layout;
-using NodeNetwork.Toolkit.Layout.ForceDirected;
-using NodeNetwork.Toolkit.NodeList;
-using NodeNetwork.Utilities;
-using NodeNetwork.ViewModels;
+using NodeNetworkJH.Toolkit.BreadcrumbBar;
+using NodeNetworkJH.Toolkit.Group;
+using NodeNetworkJH.Toolkit.Layout;
+using NodeNetworkJH.Toolkit.Layout.ForceDirected;
+using NodeNetworkJH.Toolkit.NodeList;
+using NodeNetworkJH.Utilities;
+using NodeNetworkJH.ViewModels;
 using ReactiveUI;
 
 namespace ExampleCodeGenApp.ViewModels

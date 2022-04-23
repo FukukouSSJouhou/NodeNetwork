@@ -15,12 +15,12 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using DynamicData;
-using NodeNetwork;
-using NodeNetwork.Toolkit;
-using NodeNetwork.Toolkit.Layout.ForceDirected;
-using NodeNetwork.Toolkit.ValueNode;
-using NodeNetwork.ViewModels;
-using NodeNetwork.Views;
+using NodeNetworkJH;
+using NodeNetworkJH.Toolkit;
+using NodeNetworkJH.Toolkit.Layout.ForceDirected;
+using NodeNetworkJH.Toolkit.ValueNode;
+using NodeNetworkJH.ViewModels;
+using NodeNetworkJH.Views;
 using ReactiveUI;
 
 namespace StressTest

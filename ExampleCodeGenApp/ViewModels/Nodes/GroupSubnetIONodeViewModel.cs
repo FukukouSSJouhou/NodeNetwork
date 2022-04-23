@@ -2,8 +2,8 @@
 using System.Collections.Generic;
 using System.Text;
 using ExampleCodeGenApp.Views;
-using NodeNetwork.Toolkit.Group.AddEndpointDropPanel;
-using NodeNetwork.ViewModels;
+using NodeNetworkJH.Toolkit.Group.AddEndpointDropPanel;
+using NodeNetworkJH.ViewModels;
 using ReactiveUI;
 
 namespace ExampleCodeGenApp.ViewModels.Nodes

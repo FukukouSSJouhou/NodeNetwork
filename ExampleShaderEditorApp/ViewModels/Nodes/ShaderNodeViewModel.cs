@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using NodeNetwork.ViewModels;
+using NodeNetworkJH.ViewModels;
 
 namespace ExampleShaderEditorApp.ViewModels.Nodes
 {

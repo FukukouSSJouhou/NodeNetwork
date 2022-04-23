@@ -4,8 +4,8 @@
       "src": [
         {
           "files": [
-            "NodeNetwork/**.csproj",
-            "NodeNetworkToolkit/**.csproj"
+            "NodeNetworkJH/**.csproj",
+            "NodeNetworkJHToolkit/**.csproj"
           ],
           "src": "../"
         }

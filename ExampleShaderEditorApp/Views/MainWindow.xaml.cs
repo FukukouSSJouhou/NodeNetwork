@@ -6,7 +6,7 @@ using System.Windows.Controls;
 using System.Windows.Controls.Primitives;
 using System.Windows.Data;
 using ExampleShaderEditorApp.ViewModels;
-using NodeNetwork.Toolkit.ContextMenu;
+using NodeNetworkJH.Toolkit.ContextMenu;
 using ReactiveUI;
 
 namespace ExampleShaderEditorApp.Views

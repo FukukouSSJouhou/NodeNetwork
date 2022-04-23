@@ -22,8 +22,8 @@
     <Resource Include="Resources\Icons\colorwheel.png" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\NodeNetworkToolkit\NodeNetworkToolkit.csproj" />
-    <ProjectReference Include="..\NodeNetwork\NodeNetwork.csproj" />
+    <ProjectReference Include="..\NodeNetworkJHToolkit\NodeNetworkJHToolkit.csproj" />
+    <ProjectReference Include="..\NodeNetworkJH\NodeNetworkJH.csproj" />
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Resources\Icons\eye.png" />

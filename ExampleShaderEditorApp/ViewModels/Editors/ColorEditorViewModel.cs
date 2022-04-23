@@ -3,7 +3,7 @@ using System.Reactive.Linq;
 using System.Windows.Media;
 using ExampleShaderEditorApp.Model;
 using ExampleShaderEditorApp.Views;
-using NodeNetwork.Toolkit.ValueNode;
+using NodeNetworkJH.Toolkit.ValueNode;
 using ReactiveUI;
 
 namespace ExampleShaderEditorApp.ViewModels.Editors

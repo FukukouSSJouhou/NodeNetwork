@@ -206,8 +206,19 @@ namespace NodeNetwork.ViewModels
         }
         private ResizeOrientation _resizable;
         #endregion
+        #region UUID
+        /// <summary>
+        /// UUID
+        /// </summary>
+        public Guid UUID
+        {
+            get=>_uuid;
+            internal set => this.RaiseAndSetIfChanged(ref _uuid, value);
+        }
+        private Guid _uuid;
+        #endregion
 
-        public NodeViewModel()
+        public NodeViewModel(Guid uUID)
         {
             // Setup a default EndpointGroupViewModelFactory that will be used to create endpoint groups.
             EndpointGroupViewModelFactory = (group, allInputs, allOutputs, children, factory) => new EndpointGroupViewModel(group, allInputs, allOutputs, children, factory);
@@ -215,7 +226,7 @@ namespace NodeNetwork.ViewModels
             this.Name = "Untitled";
             this.CanBeRemovedByUser = true;
             this.Resizable = ResizeOrientation.Horizontal;
-
+            this.UUID = uUID;
             // Setup parent relationship with inputs.
             Inputs.Connect().ActOnEveryObject(
 		        addedInput => addedInput.Parent = this,
@@ -346,6 +357,10 @@ namespace NodeNetwork.ViewModels
                 .Subscribe();
 
             VisibleEndpointGroups = groups;
+        }
+        public NodeViewModel():this(Guid.NewGuid())
+        {
+
         }
     }
 }

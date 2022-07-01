@@ -69,7 +69,18 @@ namespace NodeNetworkJH.ViewModels
         }
         private string _name = "";
         #endregion
-
+        #region Label
+        /// <summary>
+        /// The label of this endpoint
+        /// in the default view,/.....
+        /// </summary>
+        public string Label
+        {
+            get => _label;
+            set=>this.RaiseAndSetIfChanged(ref _label, value);
+        }
+        private string _label = "";
+        #endregion
         #region Group
 
         /// <summary>

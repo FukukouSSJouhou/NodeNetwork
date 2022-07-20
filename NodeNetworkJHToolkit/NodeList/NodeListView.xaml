@@ -5,6 +5,7 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
              xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
              xmlns:controls="clr-namespace:NodeNetworkJH.Views.Controls;assembly=NodeNetworkJH"
+             xmlns:properties="clr-namespace:NodeNetworkJH.Toolkit.Properties"
              mc:Ignorable="d" 
              d:DesignHeight="500" d:DesignWidth="320"
              Background="#f1f1f1"
@@ -102,7 +103,7 @@
 
                 </ItemsControl>
             </ScrollViewer>
-            <TextBlock x:Name="emptyMessage" Text="No matching nodes found" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+            <TextBlock x:Name="emptyMessage" Text="{x:Static properties:Resources.NodeListView_emptyMessage_text}" HorizontalAlignment="Center" VerticalAlignment="Top"/>
         </Grid>
     </Grid>
 </UserControl>

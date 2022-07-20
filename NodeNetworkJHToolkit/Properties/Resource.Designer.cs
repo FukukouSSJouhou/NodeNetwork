@@ -22,7 +22,7 @@ namespace NodeNetworkJH.Toolkit.Properties {
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "17.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    internal class Resource {
+    public class Resource {
         
         private static global::System.Resources.ResourceManager resourceMan;
         
@@ -36,7 +36,7 @@ namespace NodeNetworkJH.Toolkit.Properties {
         ///   このクラスで使用されているキャッシュされた ResourceManager インスタンスを返します。
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Resources.ResourceManager ResourceManager {
+        public static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
                     global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("NodeNetworkJH.Toolkit.Properties.Resource", typeof(Resource).Assembly);
@@ -51,7 +51,7 @@ namespace NodeNetworkJH.Toolkit.Properties {
         ///   現在のスレッドの CurrentUICulture プロパティをオーバーライドします。
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Globalization.CultureInfo Culture {
+        public static global::System.Globalization.CultureInfo Culture {
             get {
                 return resourceCulture;
             }
@@ -63,7 +63,7 @@ namespace NodeNetworkJH.Toolkit.Properties {
         /// <summary>
         ///   No matching nodes found に類似しているローカライズされた文字列を検索します。
         /// </summary>
-        internal static string NodeListView_emptyMessage_text {
+        public static string NodeListView_emptyMessage_text {
             get {
                 return ResourceManager.GetString("NodeListView_emptyMessage_text", resourceCulture);
             }

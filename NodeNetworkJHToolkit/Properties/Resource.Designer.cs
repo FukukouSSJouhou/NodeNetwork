@@ -59,5 +59,14 @@ namespace NodeNetworkJH.Toolkit.Properties {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   No matching nodes found に類似しているローカライズされた文字列を検索します。
+        /// </summary>
+        internal static string NodeListView_emptyMessage_text {
+            get {
+                return ResourceManager.GetString("NodeListView_emptyMessage_text", resourceCulture);
+            }
+        }
     }
 }

@@ -68,5 +68,14 @@ namespace NodeNetworkJH.Toolkit.Properties {
                 return ResourceManager.GetString("NodeListView_emptyMessage_text", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Search... に類似しているローカライズされた文字列を検索します。
+        /// </summary>
+        public static string NodeListView_emptySearchBoxMessage_text {
+            get {
+                return ResourceManager.GetString("NodeListView_emptySearchBoxMessage_text", resourceCulture);
+            }
+        }
     }
 }

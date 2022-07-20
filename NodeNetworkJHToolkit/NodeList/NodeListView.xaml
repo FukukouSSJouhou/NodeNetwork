@@ -77,7 +77,7 @@
 
         <Grid Row="1" x:Name="searchBoxGrid" Margin="25,7,25,0" MaxWidth="300" VerticalAlignment="Top">
             <TextBox x:Name="searchBox" TextWrapping="Wrap"/>
-            <TextBlock Margin="5, 0, 0, 0" x:Name="emptySearchBoxMessage" Text="Search..." IsHitTestVisible="False" Foreground="LightGray"/>
+            <TextBlock Margin="5, 0, 0, 0" x:Name="emptySearchBoxMessage" Text="{x:Static properties:Resources.NodeListView_emptySearchBoxMessage_text}" IsHitTestVisible="False" Foreground="LightGray"/>
         </Grid>
 
         <Grid Row="2" Margin="10,10,10,0" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">

@@ -120,4 +120,7 @@
   <data name="NodeListView_emptyMessage_text" xml:space="preserve">
     <value>No matching nodes found</value>
   </data>
+  <data name="NodeListView_emptySearchBoxMessage_text" xml:space="preserve">
+    <value>Search...</value>
+  </data>
 </root>
